@@ -1,6 +1,7 @@
 # Copyright (c) 2015-2016 Anish Athalye. Released under GPLv3.
 
 import os
+import nltk 
 
 import numpy as np
 import scipy.misc
